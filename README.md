@@ -2,8 +2,8 @@
 - 👀 I’m interested in aprender programação.
 - 🌱 I’m currently learning  analise e desenvolvimeno de sistemas
 - 💞️ I’m looking to collaborate on  melhorar ideias.
-- 📫 How to reach me  <a href="https://www.linkedin.com/in/matheus-vieira-610661173/">
-                            <img scr="https://png.pngtree.com/element_our/sm/20180626/sm_5b32227feb591.jpg"/>
+- 📫 How to reach me https://www.linkedin.com/in/julio-c%C3%A9sar-3b401420b/
+                            
 
 <!---
 JulioCvieira/JulioCvieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
