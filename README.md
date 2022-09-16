@@ -1,7 +1,7 @@
 ------Prazer me chamo Júlio César-------
 
  ##
-- 👀 Hoje estudo HTML, CSS e JavaScripet.
+- 👀 Hoje estudo HTML, CSS e JavaScript.
 - 🌱 Estou cursando analise e desenvolvimeno de sistemas.
 
 <div align="center">
