@@ -20,7 +20,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-<div>  
+<div>
+ <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-3b401420b/">
   <img align="right" alt="pic" height="100" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/128/1384/1384072.png">
 </div>
 
