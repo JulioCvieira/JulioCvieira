@@ -30,6 +30,6 @@
 
  
  
- ![Snake animation](<a href="https://www.linkedin.com/in/julio-c%C3%A9sar-3b401420b/">https://github.com/JulioCvieira/JulioCvieira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JulioCvieira/JulioCvieira/blob/output/github-contribution-grid-snake.svg)
  
  
