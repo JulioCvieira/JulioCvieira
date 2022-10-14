@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-3b401420b/">
-<img heigth="180em" width="355em" src="https://github-readme-stats.vercel.app/api?username=JulioCvieira&theme=merko&show_icons=true&include_all_commits=true&count_private=true"/> <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCvieira&layout=compact&langs_count=7&theme=merko"/>
+<img heigth="180em" width="355em" src="https://github-readme-stats.vercel.app/api?username=JulioCvieira&theme=merko&show_icons=true&include_all_commits=true&count_private=true"/> <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCvieira&layout=compact&langs_count=7.5&theme=merko"/>
 
 </div>
 
