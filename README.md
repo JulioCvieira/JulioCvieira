@@ -13,6 +13,7 @@
   ##
  
  <div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-3b401420b/">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +28,7 @@
 
 
  
- 
+ <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-3b401420b/">
  ![Snake animation](https://github.com/JulioCvieira/JulioCvieira/blob/output/github-contribution-grid-snake.svg)
  
  
